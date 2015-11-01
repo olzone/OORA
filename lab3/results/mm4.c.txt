@@ -1,0 +1,4 @@
+	Level 1 cache misses: 134831477
+	Level 2 cache misses: 134811239
+	Level 3 cache misses: 83395
+	Level 1 instruction cache misses: 345
